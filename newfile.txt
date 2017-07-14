@@ -2,4 +2,4 @@ This is the new file made with bbedit opened from the command file :)
 
 This is the 3rd lines
 
-Yes 
+And yes, I change it on Friday. Yeah! 
